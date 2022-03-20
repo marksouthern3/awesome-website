@@ -45,8 +45,9 @@ button,
 
 .quote-text {
     font-size: 36px;
+    font-style: italic;
     color: #1F2937;
-    /*light italic?*/
+    font-weight: lighter;
 }
 
 body {
