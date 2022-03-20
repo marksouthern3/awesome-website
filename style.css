@@ -65,6 +65,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 40px;
+    width: 1400px;
 }
 
 .header-container {
@@ -79,6 +80,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 400px;
+    width: 1400px;
 }
 
 .hero-container {
@@ -96,6 +98,7 @@ body {
     align-items: center;
     justify-content: center;
     height: 400px;
+    width: 1400px;
 }
 
 .section-two-container {
@@ -108,6 +111,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 400px;
+    width: 1400px;
 }
 
 .quote-container {
@@ -120,6 +124,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 300px;
+    width: 1400px;
 }
 
 .call-to-action {
@@ -133,4 +138,5 @@ body {
     justify-content: center;
     height: 100px;
     color: white;
+    width: 1400px;
 }
