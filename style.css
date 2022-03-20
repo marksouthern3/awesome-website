@@ -64,6 +64,7 @@ body {
     padding: 10px 0;
     align-items: center;
     justify-content: center;
+    height: 40px;
 }
 
 .header-container {
@@ -77,6 +78,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 400px;
 }
 
 .hero-container {
@@ -93,6 +95,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 400px;
 }
 
 .section-two-container {
@@ -104,6 +107,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 400px;
 }
 
 .quote-container {
@@ -115,6 +119,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 300px;
 }
 
 .call-to-action {
@@ -126,4 +131,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    height: 100px;
+    color: white;
 }
