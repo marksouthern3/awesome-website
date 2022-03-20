@@ -104,6 +104,33 @@ body {
 .section-two-container {
     width: 900px;
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.illustrations {
+    display: flex;
+    gap: 50px;
+}
+
+.illustration {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.illustration-img {
+    width: 150px;
+    height: 150px;
+    border:5px solid #3882F6;
+    border-radius: 15px;
+}
+
+.illustration-info {
+    text-align: center;
+    width: 150px;
 }
 
 .quote {
@@ -116,7 +143,12 @@ body {
 
 .quote-container {
     display: flex;
+    flex-direction: column;
     width: 900px;
+}
+
+.quote-author {
+    align-self: flex-end;
 }
 
 .section-four {
