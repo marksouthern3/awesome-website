@@ -26,6 +26,7 @@
 button,
 .call-to-action {
     background-color: #3882F6;
+    color: white;
 }
 
 .information-header-text {
@@ -44,6 +45,10 @@ button,
     /*light italic?*/
 }
 
+body {
+    font-style: roboto, sans-serif;
+}
+
 /* --------------------------------------- */
 
 .header-list {
@@ -56,10 +61,69 @@ button,
 
 .header {
     display: flex;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-container {
+    display: flex;
     align-items: center;
     justify-content: space-between;
+    width: 900px;
 }
 
 .hero {
     display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero-container {
+    display: flex;
+    width: 900px;
+}
+
+.hero-image {
+    color: white;
+    background-color: lightgray;
+}
+
+.section-two {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-two-container {
+    width: 900px;
+    display: flex;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-container {
+    display: flex;
+    width: 900px;
+}
+
+.section-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.call-to-action {
+    display: flex;
+    width: 700px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
