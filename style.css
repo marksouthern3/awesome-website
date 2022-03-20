@@ -1,5 +1,9 @@
 /* colours and font styles */
 
+a {
+    text-decoration: none;
+}
+
 .header,
 .footer,
 .hero {
@@ -213,3 +217,4 @@ button {
     color: white;
     width: 1400px;
 }
+
